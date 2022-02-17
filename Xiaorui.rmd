@@ -1,0 +1,16 @@
+---
+title: "Xiaorui"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me
+
+- First year master student in Applied Economics and Management at Cornell University
+
+- Love music and travelling
+
+- Hometown: Shanghai, China

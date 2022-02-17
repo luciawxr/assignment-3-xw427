@@ -1,0 +1,21 @@
+---
+title: "Welcome to our website"
+output: html_document
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<b>
+[Xiaorui's github account](https://github.com/luciawxr)
+<br>
+<b>
+[Tianjiao's github account](https://github.com/TianjiaoMei)
+
+
+![](https://img.freepik.com/free-vector/two-girls-best-friends-fall-hand-drawn-illustration_78188-105.jpg)
+<center> **Two girls, best friends in the fall**  </center>
+
