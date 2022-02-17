@@ -1,0 +1,16 @@
+---
+title: "Tianjiao"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Information about me
+
+- A first-year master student of Applied Economics and Management at Cornell University.
+
+- Love cooking and travelling.
+
+- Hometown: Zhengzhou, China.
