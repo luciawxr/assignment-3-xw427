@@ -1,0 +1,16 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Xiaorui"
+      href: Xiaorui.html
+    - text: "Tianjiao"
+      href: Tianjiao.html 
+      
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
